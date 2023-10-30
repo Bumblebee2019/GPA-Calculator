@@ -1,0 +1,16 @@
+C:\C#\GPA_Calculator\GPA_Calculator\bin\Debug\GPA_Calculator.exe.config
+C:\C#\GPA_Calculator\GPA_Calculator\bin\Debug\GPA_Calculator.exe
+C:\C#\GPA_Calculator\GPA_Calculator\bin\Debug\GPA_Calculator.pdb
+C:\C#\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.csproj.AssemblyReference.cache
+C:\C#\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\C#\GPA_Calculator\GPA_Calculator\obj\Debug\MainWindow.g.cs
+C:\C#\GPA_Calculator\GPA_Calculator\obj\Debug\App.g.cs
+C:\C#\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator_MarkupCompile.cache
+C:\C#\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator_MarkupCompile.lref
+C:\C#\GPA_Calculator\GPA_Calculator\obj\Debug\MainWindow.baml
+C:\C#\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.g.resources
+C:\C#\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.Properties.Resources.resources
+C:\C#\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.csproj.GenerateResource.cache
+C:\C#\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.csproj.CoreCompileInputs.cache
+C:\C#\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.exe
+C:\C#\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.pdb

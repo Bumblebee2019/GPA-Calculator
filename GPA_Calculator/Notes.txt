@@ -1,0 +1,20 @@
+﻿					
+					GPA Calculator
+		Grade for 1st class:_______
+		Grade for 2nd class:_______
+		Grade for 3rd class:_______
+		Grade for 4th class:_______
+		Grade for 5th class:_______
+		Grade for 6th class:_______
+
+					--------------
+				   |   Calculate  |
+				    --------------
+
+________________________________________________________________
+
+(With the help of MessageBox.Show())
+
+|------------------------------|
+|	  Your GPA is:_______
+|------------------------------|
