@@ -13,5 +13,11 @@ it, I started planning out the UI and logic of my GPA app. For the actual calcul
 You can either download the entire project and open the .sln file in Visual Studio, or pull a .exe file from GPA_Calculator/bin/Debug and run it on your machine. 
 
 ## Screenshots of My App Working
+### Starting the app:
 <img src="GPA_App_Screenshots/AppStarting.JPG">
 
+### Filling in your data:
+<img src="GPA_App_Screenshots/PuttingInData.JPG">
+
+### Getting the results!
+<img src="GPA_App_Screenshots/GPAResultBox.JPG">
